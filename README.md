@@ -44,6 +44,8 @@ We include the code used in our experiments. It is structured as follows:
 
 `RougeRaw.py` required by `model_mms.py` can be downloaded from the [SumeCzech repository](https://lindat.cz/repository/xmlui/handle/11234/1-2615?locale-attribute=cs).
 
+Code was tested with `Python 3.8`, `NVIDIA RTX 3090` and versions from `requirements.txt`.
+
 ## License
 
 Our code is released under Apache License 2.0, unless stated otherwise.
